@@ -24,7 +24,10 @@
 ### Contact
 
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/hugo-rialan-265164165/">
+    <img src="./img/linkedin.png" width="50px" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:github-readme-contact.ib6vw@simplelogin.fr">
+    <img src="./img/email.png" width="50px" alt="Email Badge"/>
   </a>
 </div>
