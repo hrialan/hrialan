@@ -15,8 +15,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/hrialan/webcam-saint-malo/issues/1) in [hrialan/webcam-saint-malo](https://github.com/hrialan/webcam-saint-malo)
-2. ❗️ Opened issue [#1](https://github.com/hrialan/webcam-saint-malo/issues/1) in [hrialan/webcam-saint-malo](https://github.com/hrialan/webcam-saint-malo)
+1. 🎉 Merged PR [#2](https://github.com/hrialan/m2ds-datacamp-project/pull/2) in [hrialan/m2ds-datacamp-project](https://github.com/hrialan/m2ds-datacamp-project)
+2. 💪 Opened PR [#2](https://github.com/hrialan/m2ds-datacamp-project/pull/2) in [hrialan/m2ds-datacamp-project](https://github.com/hrialan/m2ds-datacamp-project)
 <!--END_SECTION:activity-->
 
 # 
