@@ -16,7 +16,7 @@ Currently a Cloud Data Engineer at Devoteam G Cloud.
 ### Contact
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/hugo-rialan/">
+  <a href="https://www.linkedin.com/in/hrialan/">
     <img src="./img/linkedin.png" width="50px" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:contact@hrialan.fr">
